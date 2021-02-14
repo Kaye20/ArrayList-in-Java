@@ -1,0 +1,4 @@
+OUTPUT:
+
+Before Reverse order, ArrayList contains: [A,B,C,D,E]
+After Reverse order, ArrayList contains: [E,D,C,B,A]
